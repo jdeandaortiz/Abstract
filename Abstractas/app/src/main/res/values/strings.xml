@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Abstractas</string>
+    <string name="lado">Dame el valor del lado:</string>
+    <string name="Calcular">Calcular area</string>
+</resources>
